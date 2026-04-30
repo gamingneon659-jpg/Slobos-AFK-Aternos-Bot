@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip"coolratsmp.aternos.me",
+    "ip""coolratsmp.aternos.me",
     "port": 12956,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
